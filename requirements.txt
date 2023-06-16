@@ -1,0 +1,7 @@
+scikit-learn
+numpy
+scipy
+flask 
+transformers
+tensorflow
+flask-cors
